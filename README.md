@@ -2,7 +2,7 @@
 
 **Live app:** <https://student-rent-app.streamlit.app>
 
-![App screenshot]( )
+![App screenshot](https://github.com/sanuthjayasinghe-code/student-rent-finder/blob/main/App%20screenshot_1.png )
 
 ## The problem
 Students choose a rental on price, then discover the commute. A cheap suburb with a 70-minute trip
