@@ -1,0 +1,1142 @@
+from_id,to_id,travel_time
+20018,UniMelb Parkville,47.0
+20018,Monash Clayton,75.0
+20018,RMIT City,35.0
+20018,Deakin Burwood,81.0
+20018,La Trobe Bundoora,90.0
+20018,Swinburne Hawthorn,47.0
+20018,VU Footscray Park,65.0
+21677,UniMelb Parkville,54.0
+21677,Monash Clayton,82.0
+21677,RMIT City,41.0
+21677,Deakin Burwood,89.0
+21677,La Trobe Bundoora,92.0
+21677,Swinburne Hawthorn,54.0
+21677,VU Footscray Park,68.0
+22345,UniMelb Parkville,55.0
+22345,Monash Clayton,77.0
+22345,RMIT City,42.0
+22345,Deakin Burwood,87.0
+22345,La Trobe Bundoora,93.0
+22345,Swinburne Hawthorn,54.0
+22345,VU Footscray Park,69.0
+20035,UniMelb Parkville,65.0
+20035,Monash Clayton,110.0
+20035,RMIT City,61.0
+20035,Deakin Burwood,110.0
+20035,La Trobe Bundoora,118.0
+20035,Swinburne Hawthorn,77.0
+20035,VU Footscray Park,64.0
+20066,UniMelb Parkville,42.0
+20066,Monash Clayton,48.0
+20066,RMIT City,27.0
+20066,Deakin Burwood,65.0
+20066,La Trobe Bundoora,78.0
+20066,Swinburne Hawthorn,34.0
+20066,VU Footscray Park,59.0
+20079,UniMelb Parkville,107.0
+20079,Monash Clayton,102.0
+20079,RMIT City,91.0
+20079,Deakin Burwood,
+20079,La Trobe Bundoora,
+20079,Swinburne Hawthorn,101.0
+20079,VU Footscray Park,
+20537,UniMelb Parkville,104.0
+20537,Monash Clayton,85.0
+20537,RMIT City,88.0
+20537,Deakin Burwood,109.0
+20537,La Trobe Bundoora,
+20537,Swinburne Hawthorn,98.0
+20537,VU Footscray Park,
+20507,UniMelb Parkville,
+20507,Monash Clayton,
+20507,RMIT City,
+20507,Deakin Burwood,
+20507,La Trobe Bundoora,
+20507,Swinburne Hawthorn,
+20507,VU Footscray Park,
+20123,UniMelb Parkville,69.0
+20123,Monash Clayton,85.0
+20123,RMIT City,53.0
+20123,Deakin Burwood,49.0
+20123,La Trobe Bundoora,81.0
+20123,Swinburne Hawthorn,43.0
+20123,VU Footscray Park,90.0
+20173,UniMelb Parkville,87.0
+20173,Monash Clayton,82.0
+20173,RMIT City,70.0
+20173,Deakin Burwood,69.0
+20173,La Trobe Bundoora,113.0
+20173,Swinburne Hawthorn,64.0
+20173,VU Footscray Park,105.0
+20214,UniMelb Parkville,65.0
+20214,Monash Clayton,62.0
+20214,RMIT City,51.0
+20214,Deakin Burwood,83.0
+20214,La Trobe Bundoora,100.0
+20214,Swinburne Hawthorn,58.0
+20214,VU Footscray Park,83.0
+20224,UniMelb Parkville,
+20224,Monash Clayton,
+20224,RMIT City,
+20224,Deakin Burwood,
+20224,La Trobe Bundoora,
+20224,Swinburne Hawthorn,
+20224,VU Footscray Park,
+20252,UniMelb Parkville,53.0
+20252,Monash Clayton,58.0
+20252,RMIT City,37.0
+20252,Deakin Burwood,39.0
+20252,La Trobe Bundoora,82.0
+20252,Swinburne Hawthorn,32.0
+20252,VU Footscray Park,72.0
+20304,UniMelb Parkville,96.0
+20304,Monash Clayton,89.0
+20304,RMIT City,79.0
+20304,Deakin Burwood,79.0
+20304,La Trobe Bundoora,
+20304,Swinburne Hawthorn,73.0
+20304,VU Footscray Park,114.0
+20314,UniMelb Parkville,54.0
+20314,Monash Clayton,66.0
+20314,RMIT City,37.0
+20314,Deakin Burwood,31.0
+20314,La Trobe Bundoora,75.0
+20314,Swinburne Hawthorn,32.0
+20314,VU Footscray Park,73.0
+20337,UniMelb Parkville,65.0
+20337,Monash Clayton,77.0
+20337,RMIT City,49.0
+20337,Deakin Burwood,85.0
+20337,La Trobe Bundoora,98.0
+20337,Swinburne Hawthorn,52.0
+20337,VU Footscray Park,78.0
+20338,UniMelb Parkville,68.0
+20338,Monash Clayton,67.0
+20338,RMIT City,54.0
+20338,Deakin Burwood,87.0
+20338,La Trobe Bundoora,104.0
+20338,Swinburne Hawthorn,60.0
+20338,VU Footscray Park,83.0
+20346,UniMelb Parkville,70.0
+20346,Monash Clayton,108.0
+20346,RMIT City,54.0
+20346,Deakin Burwood,108.0
+20346,La Trobe Bundoora,74.0
+20346,Swinburne Hawthorn,74.0
+20346,VU Footscray Park,72.0
+22208,UniMelb Parkville,90.0
+22208,Monash Clayton,
+22208,RMIT City,74.0
+22208,Deakin Burwood,
+22208,La Trobe Bundoora,101.0
+22208,Swinburne Hawthorn,93.0
+22208,VU Footscray Park,93.0
+20361,UniMelb Parkville,24.0
+20361,Monash Clayton,82.0
+20361,RMIT City,31.0
+20361,Deakin Burwood,87.0
+20361,La Trobe Bundoora,60.0
+20361,Swinburne Hawthorn,55.0
+20361,VU Footscray Park,54.0
+20386,UniMelb Parkville,68.0
+20386,Monash Clayton,104.0
+20386,RMIT City,64.0
+20386,Deakin Burwood,71.0
+20386,La Trobe Bundoora,49.0
+20386,Swinburne Hawthorn,69.0
+20386,VU Footscray Park,96.0
+22483,UniMelb Parkville,72.0
+22483,Monash Clayton,98.0
+22483,RMIT City,70.0
+22483,Deakin Burwood,76.0
+22483,La Trobe Bundoora,69.0
+22483,Swinburne Hawthorn,75.0
+22483,VU Footscray Park,103.0
+20771,UniMelb Parkville,62.0
+20771,Monash Clayton,81.0
+20771,RMIT City,54.0
+20771,Deakin Burwood,50.0
+20771,La Trobe Bundoora,59.0
+20771,Swinburne Hawthorn,46.0
+20771,VU Footscray Park,88.0
+20399,UniMelb Parkville,76.0
+20399,Monash Clayton,
+20399,RMIT City,76.0
+20399,Deakin Burwood,108.0
+20399,La Trobe Bundoora,28.0
+20399,Swinburne Hawthorn,89.0
+20399,VU Footscray Park,104.0
+21104,UniMelb Parkville,76.0
+21104,Monash Clayton,107.0
+21104,RMIT City,70.0
+21104,Deakin Burwood,88.0
+21104,La Trobe Bundoora,51.0
+21104,Swinburne Hawthorn,76.0
+21104,VU Footscray Park,99.0
+21223,UniMelb Parkville,99.0
+21223,Monash Clayton,
+21223,RMIT City,95.0
+21223,Deakin Burwood,112.0
+21223,La Trobe Bundoora,75.0
+21223,Swinburne Hawthorn,99.0
+21223,VU Footscray Park,
+20426,UniMelb Parkville,74.0
+20426,Monash Clayton,59.0
+20426,RMIT City,58.0
+20426,Deakin Burwood,6.0
+20426,La Trobe Bundoora,93.0
+20426,Swinburne Hawthorn,49.0
+20426,VU Footscray Park,94.0
+20077,UniMelb Parkville,63.0
+20077,Monash Clayton,66.0
+20077,RMIT City,47.0
+20077,Deakin Burwood,44.0
+20077,La Trobe Bundoora,98.0
+20077,Swinburne Hawthorn,36.0
+20077,VU Footscray Park,81.0
+21640,UniMelb Parkville,48.0
+21640,Monash Clayton,73.0
+21640,RMIT City,34.0
+21640,Deakin Burwood,72.0
+21640,La Trobe Bundoora,80.0
+21640,Swinburne Hawthorn,39.0
+21640,VU Footscray Park,66.0
+20453,UniMelb Parkville,59.0
+20453,Monash Clayton,80.0
+20453,RMIT City,43.0
+20453,Deakin Burwood,42.0
+20453,La Trobe Bundoora,92.0
+20453,Swinburne Hawthorn,32.0
+20453,VU Footscray Park,77.0
+21010,UniMelb Parkville,66.0
+21010,Monash Clayton,69.0
+21010,RMIT City,50.0
+21010,Deakin Burwood,48.0
+21010,La Trobe Bundoora,99.0
+21010,Swinburne Hawthorn,44.0
+21010,VU Footscray Park,85.0
+20468,UniMelb Parkville,57.0
+20468,Monash Clayton,80.0
+20468,RMIT City,40.0
+20468,Deakin Burwood,49.0
+20468,La Trobe Bundoora,84.0
+20468,Swinburne Hawthorn,29.0
+20468,VU Footscray Park,76.0
+22399,UniMelb Parkville,58.0
+22399,Monash Clayton,79.0
+22399,RMIT City,42.0
+22399,Deakin Burwood,44.0
+22399,La Trobe Bundoora,88.0
+22399,Swinburne Hawthorn,36.0
+22399,VU Footscray Park,78.0
+21732,UniMelb Parkville,61.0
+21732,Monash Clayton,79.0
+21732,RMIT City,45.0
+21732,Deakin Burwood,41.0
+21732,La Trobe Bundoora,80.0
+21732,Swinburne Hawthorn,38.0
+21732,VU Footscray Park,82.0
+20496,UniMelb Parkville,25.0
+20496,Monash Clayton,83.0
+20496,RMIT City,27.0
+20496,Deakin Burwood,90.0
+20496,La Trobe Bundoora,72.0
+20496,Swinburne Hawthorn,55.0
+20496,VU Footscray Park,59.0
+20495,UniMelb Parkville,18.0
+20495,Monash Clayton,73.0
+20495,RMIT City,20.0
+20495,Deakin Burwood,80.0
+20495,La Trobe Bundoora,62.0
+20495,Swinburne Hawthorn,46.0
+20495,VU Footscray Park,48.0
+22038,UniMelb Parkville,27.0
+22038,Monash Clayton,78.0
+22038,RMIT City,28.0
+22038,Deakin Burwood,86.0
+22038,La Trobe Bundoora,76.0
+22038,Swinburne Hawthorn,52.0
+22038,VU Footscray Park,50.0
+20498,UniMelb Parkville,55.0
+20498,Monash Clayton,47.0
+20498,RMIT City,42.0
+20498,Deakin Burwood,63.0
+20498,La Trobe Bundoora,95.0
+20498,Swinburne Hawthorn,54.0
+20498,VU Footscray Park,73.0
+20521,UniMelb Parkville,61.0
+20521,Monash Clayton,64.0
+20521,RMIT City,48.0
+20521,Deakin Burwood,77.0
+20521,La Trobe Bundoora,100.0
+20521,Swinburne Hawthorn,57.0
+20521,VU Footscray Park,77.0
+20528,UniMelb Parkville,73.0
+20528,Monash Clayton,53.0
+20528,RMIT City,59.0
+20528,Deakin Burwood,40.0
+20528,La Trobe Bundoora,108.0
+20528,Swinburne Hawthorn,62.0
+20528,VU Footscray Park,90.0
+22000,UniMelb Parkville,57.0
+22000,Monash Clayton,32.0
+22000,RMIT City,44.0
+22000,Deakin Burwood,55.0
+22000,La Trobe Bundoora,102.0
+22000,Swinburne Hawthorn,60.0
+22000,VU Footscray Park,75.0
+20539,UniMelb Parkville,74.0
+20539,Monash Clayton,62.0
+20539,RMIT City,58.0
+20539,Deakin Burwood,81.0
+20539,La Trobe Bundoora,108.0
+20539,Swinburne Hawthorn,66.0
+20539,VU Footscray Park,93.0
+20569,UniMelb Parkville,62.0
+20569,Monash Clayton,14.0
+20569,RMIT City,49.0
+20569,Deakin Burwood,54.0
+20569,La Trobe Bundoora,107.0
+20569,Swinburne Hawthorn,64.0
+20569,VU Footscray Park,80.0
+20596,UniMelb Parkville,34.0
+20596,Monash Clayton,92.0
+20596,RMIT City,41.0
+20596,Deakin Burwood,98.0
+20596,La Trobe Bundoora,54.0
+20596,Swinburne Hawthorn,64.0
+20596,VU Footscray Park,64.0
+22042,UniMelb Parkville,51.0
+22042,Monash Clayton,102.0
+22042,RMIT City,51.0
+22042,Deakin Burwood,104.0
+22042,La Trobe Bundoora,64.0
+22042,Swinburne Hawthorn,70.0
+22042,VU Footscray Park,66.0
+20616,UniMelb Parkville,32.0
+20616,Monash Clayton,79.0
+20616,RMIT City,33.0
+20616,Deakin Burwood,73.0
+20616,La Trobe Bundoora,50.0
+20616,Swinburne Hawthorn,45.0
+20616,VU Footscray Park,63.0
+20002,UniMelb Parkville,37.0
+20002,Monash Clayton,80.0
+20002,RMIT City,37.0
+20002,Deakin Burwood,77.0
+20002,La Trobe Bundoora,59.0
+20002,Swinburne Hawthorn,46.0
+20002,VU Footscray Park,66.0
+20661,UniMelb Parkville,106.0
+20661,Monash Clayton,
+20661,RMIT City,91.0
+20661,Deakin Burwood,
+20661,La Trobe Bundoora,
+20661,Swinburne Hawthorn,111.0
+20661,VU Footscray Park,110.0
+20662,UniMelb Parkville,
+20662,Monash Clayton,
+20662,RMIT City,
+20662,Deakin Burwood,
+20662,La Trobe Bundoora,
+20662,Swinburne Hawthorn,
+20662,VU Footscray Park,
+20682,UniMelb Parkville,80.0
+20682,Monash Clayton,84.0
+20682,RMIT City,64.0
+20682,Deakin Burwood,67.0
+20682,La Trobe Bundoora,110.0
+20682,Swinburne Hawthorn,58.0
+20682,VU Footscray Park,100.0
+21504,UniMelb Parkville,
+21504,Monash Clayton,
+21504,RMIT City,
+21504,Deakin Burwood,
+21504,La Trobe Bundoora,
+21504,Swinburne Hawthorn,
+21504,VU Footscray Park,
+20707,UniMelb Parkville,79.0
+20707,Monash Clayton,54.0
+20707,RMIT City,66.0
+20707,Deakin Burwood,85.0
+20707,La Trobe Bundoora,
+20707,Swinburne Hawthorn,81.0
+20707,VU Footscray Park,97.0
+20708,UniMelb Parkville,109.0
+20708,Monash Clayton,59.0
+20708,RMIT City,96.0
+20708,Deakin Burwood,93.0
+20708,La Trobe Bundoora,
+20708,Swinburne Hawthorn,104.0
+20708,VU Footscray Park,
+20871,UniMelb Parkville,112.0
+20871,Monash Clayton,84.0
+20871,RMIT City,99.0
+20871,Deakin Burwood,114.0
+20871,La Trobe Bundoora,
+20871,Swinburne Hawthorn,110.0
+20871,VU Footscray Park,
+20766,UniMelb Parkville,49.0
+20766,Monash Clayton,83.0
+20766,RMIT City,35.0
+20766,Deakin Burwood,85.0
+20766,La Trobe Bundoora,85.0
+20766,Swinburne Hawthorn,52.0
+20766,VU Footscray Park,59.0
+20772,UniMelb Parkville,73.0
+20772,Monash Clayton,85.0
+20772,RMIT City,67.0
+20772,Deakin Burwood,72.0
+20772,La Trobe Bundoora,75.0
+20772,Swinburne Hawthorn,64.0
+20772,VU Footscray Park,101.0
+20774,UniMelb Parkville,88.0
+20774,Monash Clayton,84.0
+20774,RMIT City,79.0
+20774,Deakin Burwood,76.0
+20774,La Trobe Bundoora,98.0
+20774,Swinburne Hawthorn,71.0
+20774,VU Footscray Park,114.0
+20362,UniMelb Parkville,30.0
+20362,Monash Clayton,86.0
+20362,RMIT City,32.0
+20362,Deakin Burwood,88.0
+20362,La Trobe Bundoora,59.0
+20362,Swinburne Hawthorn,56.0
+20362,VU Footscray Park,65.0
+21153,UniMelb Parkville,59.0
+21153,Monash Clayton,77.0
+21153,RMIT City,42.0
+21153,Deakin Burwood,38.0
+21153,La Trobe Bundoora,85.0
+21153,Swinburne Hawthorn,31.0
+21153,VU Footscray Park,77.0
+20830,UniMelb Parkville,35.0
+20830,Monash Clayton,65.0
+20830,RMIT City,22.0
+20830,Deakin Burwood,62.0
+20830,La Trobe Bundoora,54.0
+20830,Swinburne Hawthorn,31.0
+20830,VU Footscray Park,51.0
+22344,UniMelb Parkville,61.0
+22344,Monash Clayton,65.0
+22344,RMIT City,46.0
+22344,Deakin Burwood,79.0
+22344,La Trobe Bundoora,96.0
+22344,Swinburne Hawthorn,49.0
+22344,VU Footscray Park,76.0
+20864,UniMelb Parkville,62.0
+20864,Monash Clayton,69.0
+20864,RMIT City,46.0
+20864,Deakin Burwood,81.0
+20864,La Trobe Bundoora,95.0
+20864,Swinburne Hawthorn,48.0
+20864,VU Footscray Park,75.0
+20865,UniMelb Parkville,88.0
+20865,Monash Clayton,112.0
+20865,RMIT City,80.0
+20865,Deakin Burwood,89.0
+20865,La Trobe Bundoora,62.0
+20865,Swinburne Hawthorn,86.0
+20865,VU Footscray Park,107.0
+22160,UniMelb Parkville,112.0
+22160,Monash Clayton,
+22160,RMIT City,103.0
+22160,Deakin Burwood,112.0
+22160,La Trobe Bundoora,86.0
+22160,Swinburne Hawthorn,106.0
+22160,VU Footscray Park,
+21735,UniMelb Parkville,78.0
+21735,Monash Clayton,106.0
+21735,RMIT City,73.0
+21735,Deakin Burwood,75.0
+21735,La Trobe Bundoora,56.0
+21735,Swinburne Hawthorn,75.0
+21735,VU Footscray Park,102.0
+20867,UniMelb Parkville,65.0
+20867,Monash Clayton,78.0
+20867,RMIT City,49.0
+20867,Deakin Burwood,85.0
+20867,La Trobe Bundoora,96.0
+20867,Swinburne Hawthorn,51.0
+20867,VU Footscray Park,78.0
+20885,UniMelb Parkville,54.0
+20885,Monash Clayton,99.0
+20885,RMIT City,44.0
+20885,Deakin Burwood,98.0
+20885,La Trobe Bundoora,79.0
+20885,Swinburne Hawthorn,64.0
+20885,VU Footscray Park,55.0
+20901,UniMelb Parkville,48.0
+20901,Monash Clayton,88.0
+20901,RMIT City,46.0
+20901,Deakin Burwood,86.0
+20901,La Trobe Bundoora,48.0
+20901,Swinburne Hawthorn,55.0
+20901,VU Footscray Park,77.0
+20034,UniMelb Parkville,49.0
+20034,Monash Clayton,83.0
+20034,RMIT City,41.0
+20034,Deakin Burwood,80.0
+20034,La Trobe Bundoora,38.0
+20034,Swinburne Hawthorn,50.0
+20034,VU Footscray Park,73.0
+20917,UniMelb Parkville,106.0
+20917,Monash Clayton,75.0
+20917,RMIT City,89.0
+20917,Deakin Burwood,64.0
+20917,La Trobe Bundoora,
+20917,Swinburne Hawthorn,81.0
+20917,VU Footscray Park,
+20924,UniMelb Parkville,25.0
+20924,Monash Clayton,72.0
+20924,RMIT City,26.0
+20924,Deakin Burwood,77.0
+20924,La Trobe Bundoora,59.0
+20924,Swinburne Hawthorn,44.0
+20924,VU Footscray Park,55.0
+20925,UniMelb Parkville,37.0
+20925,Monash Clayton,84.0
+20925,RMIT City,37.0
+20925,Deakin Burwood,84.0
+20925,La Trobe Bundoora,55.0
+20925,Swinburne Hawthorn,51.0
+20925,VU Footscray Park,66.0
+20574,UniMelb Parkville,40.0
+20574,Monash Clayton,75.0
+20574,RMIT City,32.0
+20574,Deakin Burwood,73.0
+20574,La Trobe Bundoora,51.0
+20574,Swinburne Hawthorn,41.0
+20574,VU Footscray Park,62.0
+20929,UniMelb Parkville,37.0
+20929,Monash Clayton,81.0
+20929,RMIT City,26.0
+20929,Deakin Burwood,80.0
+20929,La Trobe Bundoora,77.0
+20929,Swinburne Hawthorn,46.0
+20929,VU Footscray Park,43.0
+21327,UniMelb Parkville,41.0
+21327,Monash Clayton,82.0
+21327,RMIT City,29.0
+21327,Deakin Burwood,82.0
+21327,La Trobe Bundoora,80.0
+21327,Swinburne Hawthorn,49.0
+21327,VU Footscray Park,39.0
+20935,UniMelb Parkville,30.0
+20935,Monash Clayton,76.0
+20935,RMIT City,28.0
+20935,Deakin Burwood,84.0
+20935,La Trobe Bundoora,85.0
+20935,Swinburne Hawthorn,50.0
+20935,VU Footscray Park,25.0
+20947,UniMelb Parkville,
+20947,Monash Clayton,
+20947,RMIT City,
+20947,Deakin Burwood,
+20947,La Trobe Bundoora,
+20947,Swinburne Hawthorn,
+20947,VU Footscray Park,
+21004,UniMelb Parkville,95.0
+21004,Monash Clayton,
+21004,RMIT City,80.0
+21004,Deakin Burwood,
+21004,La Trobe Bundoora,98.0
+21004,Swinburne Hawthorn,103.0
+21004,VU Footscray Park,97.0
+22586,UniMelb Parkville,77.0
+22586,Monash Clayton,
+22586,RMIT City,71.0
+22586,Deakin Burwood,
+22586,La Trobe Bundoora,88.0
+22586,Swinburne Hawthorn,93.0
+22586,VU Footscray Park,82.0
+21013,UniMelb Parkville,81.0
+21013,Monash Clayton,47.0
+21013,RMIT City,65.0
+21013,Deakin Burwood,54.0
+21013,La Trobe Bundoora,113.0
+21013,Swinburne Hawthorn,65.0
+21013,VU Footscray Park,98.0
+21827,UniMelb Parkville,79.0
+21827,Monash Clayton,28.0
+21827,RMIT City,67.0
+21827,Deakin Burwood,68.0
+21827,La Trobe Bundoora,
+21827,Swinburne Hawthorn,78.0
+21827,VU Footscray Park,96.0
+21131,UniMelb Parkville,76.0
+21131,Monash Clayton,81.0
+21131,RMIT City,60.0
+21131,Deakin Burwood,97.0
+21131,La Trobe Bundoora,106.0
+21131,Swinburne Hawthorn,62.0
+21131,VU Footscray Park,89.0
+20182,UniMelb Parkville,91.0
+20182,Monash Clayton,87.0
+20182,RMIT City,75.0
+20182,Deakin Burwood,106.0
+20182,La Trobe Bundoora,
+20182,Swinburne Hawthorn,82.0
+20182,VU Footscray Park,108.0
+21145,UniMelb Parkville,
+21145,Monash Clayton,
+21145,RMIT City,
+21145,Deakin Burwood,
+21145,La Trobe Bundoora,
+21145,Swinburne Hawthorn,
+21145,VU Footscray Park,
+21152,UniMelb Parkville,48.0
+21152,Monash Clayton,67.0
+21152,RMIT City,32.0
+21152,Deakin Burwood,38.0
+21152,La Trobe Bundoora,78.0
+21152,Swinburne Hawthorn,17.0
+21152,VU Footscray Park,66.0
+21167,UniMelb Parkville,71.0
+21167,Monash Clayton,106.0
+21167,RMIT City,65.0
+21167,Deakin Burwood,85.0
+21167,La Trobe Bundoora,44.0
+21167,Swinburne Hawthorn,72.0
+21167,VU Footscray Park,96.0
+21169,UniMelb Parkville,68.0
+21169,Monash Clayton,109.0
+21169,RMIT City,66.0
+21169,Deakin Burwood,92.0
+21169,La Trobe Bundoora,22.0
+21169,Swinburne Hawthorn,76.0
+21169,VU Footscray Park,97.0
+21246,UniMelb Parkville,54.0
+21246,Monash Clayton,88.0
+21246,RMIT City,47.0
+21246,Deakin Burwood,82.0
+21246,La Trobe Bundoora,35.0
+21246,Swinburne Hawthorn,54.0
+21246,VU Footscray Park,78.0
+21247,UniMelb Parkville,61.0
+21247,Monash Clayton,100.0
+21247,RMIT City,59.0
+21247,Deakin Burwood,75.0
+21247,La Trobe Bundoora,45.0
+21247,Swinburne Hawthorn,57.0
+21247,VU Footscray Park,90.0
+21316,UniMelb Parkville,73.0
+21316,Monash Clayton,119.0
+21316,RMIT City,67.0
+21316,Deakin Burwood,
+21316,La Trobe Bundoora,104.0
+21316,Swinburne Hawthorn,89.0
+21316,VU Footscray Park,60.0
+20089,UniMelb Parkville,72.0
+20089,Monash Clayton,
+20089,RMIT City,68.0
+20089,Deakin Burwood,
+20089,La Trobe Bundoora,111.0
+20089,Swinburne Hawthorn,91.0
+20089,VU Footscray Park,45.0
+21336,UniMelb Parkville,52.0
+21336,Monash Clayton,89.0
+21336,RMIT City,47.0
+21336,Deakin Burwood,63.0
+21336,La Trobe Bundoora,65.0
+21336,Swinburne Hawthorn,34.0
+21336,VU Footscray Park,80.0
+21586,UniMelb Parkville,57.0
+21586,Monash Clayton,60.0
+21586,RMIT City,42.0
+21586,Deakin Burwood,60.0
+21586,La Trobe Bundoora,89.0
+21586,Swinburne Hawthorn,42.0
+21586,VU Footscray Park,74.0
+21587,UniMelb Parkville,56.0
+21587,Monash Clayton,52.0
+21587,RMIT City,40.0
+21587,Deakin Burwood,46.0
+21587,La Trobe Bundoora,88.0
+21587,Swinburne Hawthorn,40.0
+21587,VU Footscray Park,74.0
+21642,UniMelb Parkville,
+21642,Monash Clayton,
+21642,RMIT City,
+21642,Deakin Burwood,
+21642,La Trobe Bundoora,
+21642,Swinburne Hawthorn,
+21642,VU Footscray Park,
+21648,UniMelb Parkville,76.0
+21648,Monash Clayton,68.0
+21648,RMIT City,60.0
+21648,Deakin Burwood,85.0
+21648,La Trobe Bundoora,110.0
+21648,Swinburne Hawthorn,69.0
+21648,VU Footscray Park,95.0
+22037,UniMelb Parkville,79.0
+22037,Monash Clayton,75.0
+22037,RMIT City,63.0
+22037,Deakin Burwood,96.0
+22037,La Trobe Bundoora,113.0
+22037,Swinburne Hawthorn,72.0
+22037,VU Footscray Park,99.0
+21760,UniMelb Parkville,97.0
+21760,Monash Clayton,92.0
+21760,RMIT City,81.0
+21760,Deakin Burwood,110.0
+21760,La Trobe Bundoora,
+21760,Swinburne Hawthorn,92.0
+21760,VU Footscray Park,116.0
+21683,UniMelb Parkville,94.0
+21683,Monash Clayton,
+21683,RMIT City,82.0
+21683,Deakin Burwood,
+21683,La Trobe Bundoora,56.0
+21683,Swinburne Hawthorn,94.0
+21683,VU Footscray Park,111.0
+20878,UniMelb Parkville,98.0
+20878,Monash Clayton,
+20878,RMIT City,86.0
+20878,Deakin Burwood,
+20878,La Trobe Bundoora,78.0
+20878,Swinburne Hawthorn,98.0
+20878,VU Footscray Park,113.0
+21742,UniMelb Parkville,41.0
+21742,Monash Clayton,81.0
+21742,RMIT City,26.0
+21742,Deakin Burwood,80.0
+21742,La Trobe Bundoora,75.0
+21742,Swinburne Hawthorn,46.0
+21742,VU Footscray Park,41.0
+20075,UniMelb Parkville,50.0
+20075,Monash Clayton,95.0
+20075,RMIT City,43.0
+20075,Deakin Burwood,97.0
+20075,La Trobe Bundoora,93.0
+20075,Swinburne Hawthorn,62.0
+20075,VU Footscray Park,32.0
+21816,UniMelb Parkville,67.0
+21816,Monash Clayton,34.0
+21816,RMIT City,51.0
+21816,Deakin Burwood,40.0
+21816,La Trobe Bundoora,99.0
+21816,Swinburne Hawthorn,52.0
+21816,VU Footscray Park,85.0
+21793,UniMelb Parkville,
+21793,Monash Clayton,
+21793,RMIT City,
+21793,Deakin Burwood,
+21793,La Trobe Bundoora,
+21793,Swinburne Hawthorn,
+21793,VU Footscray Park,
+21763,UniMelb Parkville,
+21763,Monash Clayton,
+21763,RMIT City,
+21763,Deakin Burwood,
+21763,La Trobe Bundoora,
+21763,Swinburne Hawthorn,
+21763,VU Footscray Park,
+21803,UniMelb Parkville,
+21803,Monash Clayton,
+21803,RMIT City,
+21803,Deakin Burwood,
+21803,La Trobe Bundoora,
+21803,Swinburne Hawthorn,
+21803,VU Footscray Park,
+21849,UniMelb Parkville,58.0
+21849,Monash Clayton,43.0
+21849,RMIT City,45.0
+21849,Deakin Burwood,61.0
+21849,La Trobe Bundoora,103.0
+21849,Swinburne Hawthorn,61.0
+21849,VU Footscray Park,76.0
+21214,UniMelb Parkville,57.0
+21214,Monash Clayton,39.0
+21214,RMIT City,44.0
+21214,Deakin Burwood,59.0
+21214,La Trobe Bundoora,102.0
+21214,Swinburne Hawthorn,60.0
+21214,VU Footscray Park,75.0
+21893,UniMelb Parkville,110.0
+21893,Monash Clayton,82.0
+21893,RMIT City,98.0
+21893,Deakin Burwood,113.0
+21893,La Trobe Bundoora,
+21893,Swinburne Hawthorn,109.0
+21893,VU Footscray Park,
+21133,UniMelb Parkville,
+21133,Monash Clayton,
+21133,RMIT City,
+21133,Deakin Burwood,
+21133,La Trobe Bundoora,
+21133,Swinburne Hawthorn,
+21133,VU Footscray Park,
+21934,UniMelb Parkville,44.0
+21934,Monash Clayton,88.0
+21934,RMIT City,40.0
+21934,Deakin Burwood,88.0
+21934,La Trobe Bundoora,92.0
+21934,Swinburne Hawthorn,55.0
+21934,VU Footscray Park,42.0
+22319,UniMelb Parkville,37.0
+22319,Monash Clayton,83.0
+22319,RMIT City,34.0
+22319,Deakin Burwood,82.0
+22319,La Trobe Bundoora,87.0
+22319,Swinburne Hawthorn,49.0
+22319,VU Footscray Park,37.0
+21952,UniMelb Parkville,66.0
+21952,Monash Clayton,43.0
+21952,RMIT City,53.0
+21952,Deakin Burwood,74.0
+21952,La Trobe Bundoora,111.0
+21952,Swinburne Hawthorn,69.0
+21952,VU Footscray Park,84.0
+21966,UniMelb Parkville,31.0
+21966,Monash Clayton,77.0
+21966,RMIT City,28.0
+21966,Deakin Burwood,86.0
+21966,La Trobe Bundoora,82.0
+21966,Swinburne Hawthorn,52.0
+21966,VU Footscray Park,45.0
+22757,UniMelb Parkville,60.0
+22757,Monash Clayton,105.0
+22757,RMIT City,50.0
+22757,Deakin Burwood,107.0
+22757,La Trobe Bundoora,102.0
+22757,Swinburne Hawthorn,73.0
+22757,VU Footscray Park,59.0
+21971,UniMelb Parkville,47.0
+21971,Monash Clayton,88.0
+21971,RMIT City,44.0
+21971,Deakin Burwood,86.0
+21971,La Trobe Bundoora,46.0
+21971,Swinburne Hawthorn,54.0
+21971,VU Footscray Park,73.0
+21985,UniMelb Parkville,60.0
+21985,Monash Clayton,62.0
+21985,RMIT City,43.0
+21985,Deakin Burwood,46.0
+21985,La Trobe Bundoora,88.0
+21985,Swinburne Hawthorn,39.0
+21985,VU Footscray Park,79.0
+21706,UniMelb Parkville,68.0
+21706,Monash Clayton,74.0
+21706,RMIT City,52.0
+21706,Deakin Burwood,55.0
+21706,La Trobe Bundoora,97.0
+21706,Swinburne Hawthorn,46.0
+21706,VU Footscray Park,88.0
+21998,UniMelb Parkville,57.0
+21998,Monash Clayton,96.0
+21998,RMIT City,41.0
+21998,Deakin Burwood,95.0
+21998,La Trobe Bundoora,78.0
+21998,Swinburne Hawthorn,61.0
+21998,VU Footscray Park,60.0
+21047,UniMelb Parkville,61.0
+21047,Monash Clayton,100.0
+21047,RMIT City,45.0
+21047,Deakin Burwood,100.0
+21047,La Trobe Bundoora,79.0
+21047,Swinburne Hawthorn,65.0
+21047,VU Footscray Park,64.0
+20909,UniMelb Parkville,70.0
+20909,Monash Clayton,
+20909,RMIT City,67.0
+20909,Deakin Burwood,
+20909,La Trobe Bundoora,73.0
+20909,Swinburne Hawthorn,91.0
+20909,VU Footscray Park,92.0
+22005,UniMelb Parkville,
+22005,Monash Clayton,
+22005,RMIT City,
+22005,Deakin Burwood,
+22005,La Trobe Bundoora,
+22005,Swinburne Hawthorn,
+22005,VU Footscray Park,
+22027,UniMelb Parkville,
+22027,Monash Clayton,
+22027,RMIT City,
+22027,Deakin Burwood,
+22027,La Trobe Bundoora,
+22027,Swinburne Hawthorn,
+22027,VU Footscray Park,
+22041,UniMelb Parkville,66.0
+22041,Monash Clayton,107.0
+22041,RMIT City,53.0
+22041,Deakin Burwood,108.0
+22041,La Trobe Bundoora,70.0
+22041,Swinburne Hawthorn,74.0
+22041,VU Footscray Park,72.0
+20597,UniMelb Parkville,47.0
+20597,Monash Clayton,106.0
+20597,RMIT City,54.0
+20597,Deakin Burwood,111.0
+20597,La Trobe Bundoora,54.0
+20597,Swinburne Hawthorn,77.0
+20597,VU Footscray Park,77.0
+22107,UniMelb Parkville,55.0
+22107,Monash Clayton,85.0
+22107,RMIT City,41.0
+22107,Deakin Burwood,90.0
+22107,La Trobe Bundoora,91.0
+22107,Swinburne Hawthorn,55.0
+22107,VU Footscray Park,66.0
+22118,UniMelb Parkville,52.0
+22118,Monash Clayton,59.0
+22118,RMIT City,37.0
+22118,Deakin Burwood,67.0
+22118,La Trobe Bundoora,87.0
+22118,Swinburne Hawthorn,42.0
+22118,VU Footscray Park,69.0
+22805,UniMelb Parkville,46.0
+22805,Monash Clayton,64.0
+22805,RMIT City,30.0
+22805,Deakin Burwood,68.0
+22805,La Trobe Bundoora,79.0
+22805,Swinburne Hawthorn,33.0
+22805,VU Footscray Park,60.0
+22121,UniMelb Parkville,59.0
+22121,Monash Clayton,100.0
+22121,RMIT City,57.0
+22121,Deakin Burwood,98.0
+22121,La Trobe Bundoora,33.0
+22121,Swinburne Hawthorn,66.0
+22121,VU Footscray Park,85.0
+22161,UniMelb Parkville,67.0
+22161,Monash Clayton,102.0
+22161,RMIT City,59.0
+22161,Deakin Burwood,100.0
+22161,La Trobe Bundoora,38.0
+22161,Swinburne Hawthorn,68.0
+22161,VU Footscray Park,88.0
+22170,UniMelb Parkville,49.0
+22170,Monash Clayton,76.0
+22170,RMIT City,33.0
+22170,Deakin Burwood,61.0
+22170,La Trobe Bundoora,74.0
+22170,Swinburne Hawthorn,32.0
+22170,VU Footscray Park,68.0
+20418,UniMelb Parkville,51.0
+20418,Monash Clayton,78.0
+20418,RMIT City,35.0
+20418,Deakin Burwood,61.0
+20418,La Trobe Bundoora,85.0
+20418,Swinburne Hawthorn,33.0
+20418,VU Footscray Park,70.0
+22174,UniMelb Parkville,78.0
+22174,Monash Clayton,83.0
+22174,RMIT City,62.0
+22174,Deakin Burwood,64.0
+22174,La Trobe Bundoora,106.0
+22174,Swinburne Hawthorn,55.0
+22174,VU Footscray Park,99.0
+22207,UniMelb Parkville,104.0
+22207,Monash Clayton,50.0
+22207,RMIT City,91.0
+22207,Deakin Burwood,77.0
+22207,La Trobe Bundoora,
+22207,Swinburne Hawthorn,93.0
+22207,VU Footscray Park,
+22249,UniMelb Parkville,
+22249,Monash Clayton,
+22249,RMIT City,
+22249,Deakin Burwood,
+22249,La Trobe Bundoora,
+22249,Swinburne Hawthorn,
+22249,VU Footscray Park,
+20508,UniMelb Parkville,
+20508,Monash Clayton,
+20508,RMIT City,
+20508,Deakin Burwood,
+20508,La Trobe Bundoora,
+20508,Swinburne Hawthorn,
+20508,VU Footscray Park,
+22310,UniMelb Parkville,42.0
+22310,Monash Clayton,68.0
+22310,RMIT City,29.0
+22310,Deakin Burwood,76.0
+22310,La Trobe Bundoora,82.0
+22310,Swinburne Hawthorn,42.0
+22310,VU Footscray Park,57.0
+22314,UniMelb Parkville,37.0
+22314,Monash Clayton,54.0
+22314,RMIT City,21.0
+22314,Deakin Burwood,62.0
+22314,La Trobe Bundoora,70.0
+22314,Swinburne Hawthorn,28.0
+22314,VU Footscray Park,54.0
+22315,UniMelb Parkville,39.0
+22315,Monash Clayton,67.0
+22315,RMIT City,26.0
+22315,Deakin Burwood,72.0
+22315,La Trobe Bundoora,80.0
+22315,Swinburne Hawthorn,37.0
+22315,VU Footscray Park,56.0
+22328,UniMelb Parkville,83.0
+22328,Monash Clayton,51.0
+22328,RMIT City,70.0
+22328,Deakin Burwood,82.0
+22328,La Trobe Bundoora,
+22328,Swinburne Hawthorn,85.0
+22328,VU Footscray Park,101.0
+22330,UniMelb Parkville,60.0
+22330,Monash Clayton,105.0
+22330,RMIT City,57.0
+22330,Deakin Burwood,116.0
+22330,La Trobe Bundoora,116.0
+22330,Swinburne Hawthorn,82.0
+22330,VU Footscray Park,63.0
+20729,UniMelb Parkville,65.0
+20729,Monash Clayton,111.0
+20729,RMIT City,63.0
+20729,Deakin Burwood,
+20729,La Trobe Bundoora,
+20729,Swinburne Hawthorn,90.0
+20729,VU Footscray Park,69.0
+22343,UniMelb Parkville,55.0
+22343,Monash Clayton,73.0
+22343,RMIT City,42.0
+22343,Deakin Burwood,81.0
+22343,La Trobe Bundoora,85.0
+22343,Swinburne Hawthorn,48.0
+22343,VU Footscray Park,72.0
+22391,UniMelb Parkville,110.0
+22391,Monash Clayton,
+22391,RMIT City,107.0
+22391,Deakin Burwood,
+22391,La Trobe Bundoora,
+22391,Swinburne Hawthorn,
+22391,VU Footscray Park,114.0
+22395,UniMelb Parkville,39.0
+22395,Monash Clayton,85.0
+22395,RMIT City,37.0
+22395,Deakin Burwood,96.0
+22395,La Trobe Bundoora,95.0
+22395,Swinburne Hawthorn,61.0
+22395,VU Footscray Park,44.0
+22414,UniMelb Parkville,64.0
+22414,Monash Clayton,111.0
+22414,RMIT City,62.0
+22414,Deakin Burwood,
+22414,La Trobe Bundoora,
+22414,Swinburne Hawthorn,87.0
+22414,VU Footscray Park,68.0
+22504,UniMelb Parkville,80.0
+22504,Monash Clayton,112.0
+22504,RMIT City,68.0
+22504,Deakin Burwood,109.0
+22504,La Trobe Bundoora,57.0
+22504,Swinburne Hawthorn,78.0
+22504,VU Footscray Park,98.0
+21452,UniMelb Parkville,79.0
+21452,Monash Clayton,111.0
+21452,RMIT City,68.0
+21452,Deakin Burwood,109.0
+21452,La Trobe Bundoora,57.0
+21452,Swinburne Hawthorn,78.0
+21452,VU Footscray Park,97.0
+22508,UniMelb Parkville,51.0
+22508,Monash Clayton,94.0
+22508,RMIT City,49.0
+22508,Deakin Burwood,93.0
+22508,La Trobe Bundoora,42.0
+22508,Swinburne Hawthorn,60.0
+22508,VU Footscray Park,79.0
+22547,UniMelb Parkville,56.0
+22547,Monash Clayton,70.0
+22547,RMIT City,40.0
+22547,Deakin Burwood,65.0
+22547,La Trobe Bundoora,89.0
+22547,Swinburne Hawthorn,39.0
+22547,VU Footscray Park,73.0
+22627,UniMelb Parkville,85.0
+22627,Monash Clayton,65.0
+22627,RMIT City,68.0
+22627,Deakin Burwood,52.0
+22627,La Trobe Bundoora,115.0
+22627,Swinburne Hawthorn,62.0
+22627,VU Footscray Park,105.0
+20937,UniMelb Parkville,70.0
+20937,Monash Clayton,56.0
+20937,RMIT City,54.0
+20937,Deakin Burwood,45.0
+20937,La Trobe Bundoora,98.0
+20937,Swinburne Hawthorn,46.0
+20937,VU Footscray Park,88.0
+20427,UniMelb Parkville,80.0
+20427,Monash Clayton,49.0
+20427,RMIT City,64.0
+20427,Deakin Burwood,25.0
+20427,La Trobe Bundoora,100.0
+20427,Swinburne Hawthorn,54.0
+20427,VU Footscray Park,100.0
+22685,UniMelb Parkville,106.0
+22685,Monash Clayton,78.0
+22685,RMIT City,89.0
+22685,Deakin Burwood,66.0
+22685,La Trobe Bundoora,
+22685,Swinburne Hawthorn,79.0
+22685,VU Footscray Park,
+22242,UniMelb Parkville,116.0
+22242,Monash Clayton,63.0
+22242,RMIT City,101.0
+22242,Deakin Burwood,81.0
+22242,La Trobe Bundoora,
+22242,Swinburne Hawthorn,96.0
+22242,VU Footscray Park,
+22750,UniMelb Parkville,
+22750,Monash Clayton,
+22750,RMIT City,
+22750,Deakin Burwood,
+22750,La Trobe Bundoora,
+22750,Swinburne Hawthorn,
+22750,VU Footscray Park,
+21203,UniMelb Parkville,80.0
+21203,Monash Clayton,
+21203,RMIT City,73.0
+21203,Deakin Burwood,
+21203,La Trobe Bundoora,
+21203,Swinburne Hawthorn,86.0
+21203,VU Footscray Park,74.0
+20363,UniMelb Parkville,36.0
+20363,Monash Clayton,89.0
+20363,RMIT City,39.0
+20363,Deakin Burwood,96.0
+20363,La Trobe Bundoora,65.0
+20363,Swinburne Hawthorn,63.0
+20363,VU Footscray Park,54.0
+22756,UniMelb Parkville,46.0
+22756,Monash Clayton,92.0
+22756,RMIT City,44.0
+22756,Deakin Burwood,102.0
+22756,La Trobe Bundoora,102.0
+22756,Swinburne Hawthorn,67.0
+22756,VU Footscray Park,50.0
+22792,UniMelb Parkville,50.0
+22792,Monash Clayton,96.0
+22792,RMIT City,46.0
+22792,Deakin Burwood,95.0
+22792,La Trobe Bundoora,99.0
+22792,Swinburne Hawthorn,61.0
+22792,VU Footscray Park,49.0
+22917,UniMelb Parkville,45.0
+22917,Monash Clayton,91.0
+22917,RMIT City,42.0
+22917,Deakin Burwood,93.0
+22917,La Trobe Bundoora,97.0
+22917,Swinburne Hawthorn,59.0
+22917,VU Footscray Park,38.0
+22256,UniMelb Parkville,32.0
+22256,Monash Clayton,77.0
+22256,RMIT City,30.0
+22256,Deakin Burwood,86.0
+22256,La Trobe Bundoora,86.0
+22256,Swinburne Hawthorn,52.0
+22256,VU Footscray Park,31.0
+21314,UniMelb Parkville,89.0
+21314,Monash Clayton,
+21314,RMIT City,86.0
+21314,Deakin Burwood,
+21314,La Trobe Bundoora,
+21314,Swinburne Hawthorn,111.0
+21314,VU Footscray Park,88.0

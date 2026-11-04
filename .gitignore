@@ -1,0 +1,22 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Big raw downloads (anyone can re-download them; see README)
+*.zip
+*.osm.pbf
+*.xlsx
+gtfs/
+gtfs_clean/
+
+# Helper files and logs from setup
+*.bat
+*_log.txt
+setup_log.txt
+claude_reference/
+project.py
+
+# Secrets (API keys) - never upload these
+.env
+.streamlit/secrets.toml

@@ -1,0 +1,983 @@
+region,suburb_group,quarter,count,median,property_type,quarter_date
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,176.0,450.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,78.0,385.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,188.0,450.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,31.0,435.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,15.0,290.0,1 bedroom flat,2025-09-30
+Ballarat,Ballarat,Sep 2025,77.0,285.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,40.0,500.0,1 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,14.0,393.0,1 bedroom flat,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,115.0,340.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Benalla,Sep 2025,30.0,305.0,1 bedroom flat,2025-09-30
+Bendigo,Bendigo,Sep 2025,13.0,330.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,177.0,405.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,93.0,460.0,1 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,16.0,400.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,428.0,490.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,80.0,498.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,82.0,265.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,147.0,325.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,485.0,460.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,133.0,480.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,143.0,420.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,74.0,450.0,1 bedroom flat,2025-09-30
+Inner Melbourne,CBD-St Kilda Rd,Sep 2025,6274.0,560.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,207.0,440.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,20.0,450.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,37.0,430.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,1023.0,500.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,303.0,420.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,613.0,500.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,104.0,500.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,111.0,450.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,406.0,490.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,195.0,425.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,631.0,520.0,1 bedroom flat,2025-09-30
+Geelong,Corio,Sep 2025,59.0,320.0,1 bedroom flat,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,34.0,400.0,1 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,54.0,363.0,1 bedroom flat,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,100.0,375.0,1 bedroom flat,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,32.0,350.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Docklands,Sep 2025,1240.0,600.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,29.0,470.0,1 bedroom flat,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,22.0,393.0,1 bedroom flat,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,348.0,500.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,236.0,490.0,1 bedroom flat,2025-09-30
+Inner Melbourne,East Melbourne,Sep 2025,165.0,520.0,1 bedroom flat,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,433.0,425.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,16.0,278.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,161.0,440.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,34.0,360.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,331.0,450.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,298.0,430.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,248.0,400.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Fitzroy,Sep 2025,204.0,528.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,239.0,500.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,500.0,470.0,1 bedroom flat,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,42.0,350.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,536.0,450.0,1 bedroom flat,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,176.0,350.0,1 bedroom flat,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,163.0,380.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,55.0,550.0,1 bedroom flat,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,20.0,320.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Hamilton,Sep 2025,24.0,260.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,105.0,480.0,1 bedroom flat,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,43.0,360.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,509.0,450.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,143.0,450.0,1 bedroom flat,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,114.0,340.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,24.0,250.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,179.0,490.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,166.0,450.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,53.0,470.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,101.0,450.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,194.0,480.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,36.0,350.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,193.0,405.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,77.0,280.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,33.0,400.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Moe-Newborough,Sep 2025,57.0,250.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,345.0,450.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Morwell,Sep 2025,47.0,275.0,1 bedroom flat,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,12.0,285.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,41.0,280.0,1 bedroom flat,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,197.0,405.0,1 bedroom flat,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,24.0,323.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,136.0,455.0,1 bedroom flat,2025-09-30
+Geelong,Newtown,Sep 2025,42.0,318.0,1 bedroom flat,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,144.0,370.0,1 bedroom flat,2025-09-30
+Bendigo,North Bendigo,Sep 2025,19.0,320.0,1 bedroom flat,2025-09-30
+Geelong,North Geelong,Sep 2025,51.0,330.0,1 bedroom flat,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,1239.0,525.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,253.0,420.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,59.0,435.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,65.0,385.0,1 bedroom flat,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,75.0,280.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,218.0,550.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Portland,Sep 2025,16.0,345.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,803.0,460.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,236.0,440.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,139.0,400.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,871.0,510.0,1 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,55.0,440.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,30.0,253.0,1 bedroom flat,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,59.0,380.0,1 bedroom flat,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,87.0,300.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Seymour,Sep 2025,17.0,275.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,115.0,290.0,1 bedroom flat,2025-09-30
+Inner Melbourne,South Melbourne,Sep 2025,408.0,548.0,1 bedroom flat,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,1378.0,500.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Southbank,Sep 2025,1593.0,570.0,1 bedroom flat,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,137.0,370.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,46.0,330.0,1 bedroom flat,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,1287.0,465.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,137.0,330.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Swan Hill,Sep 2025,43.0,245.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,19.0,375.0,1 bedroom flat,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,263.0,400.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,157.0,445.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,84.0,293.0,1 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,40.0,530.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,68.0,267.0,1 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,51.0,287.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Warragul,Sep 2025,10.0,250.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,40.0,345.0,1 bedroom flat,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,62.0,285.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,69.0,350.0,1 bedroom flat,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,428.0,400.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,131.0,365.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,56.0,420.0,1 bedroom flat,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,54.0,290.0,1 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,41.0,350.0,1 bedroom flat,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,106.0,393.0,1 bedroom flat,2025-09-30
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,144.0,643.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,442.0,475.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,282.0,650.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,368.0,545.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,41.0,370.0,2 bedroom flat,2025-09-30
+Ballarat,Ballarat,Sep 2025,174.0,360.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,254.0,588.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,132.0,493.0,2 bedroom flat,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,291.0,430.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Benalla,Sep 2025,44.0,370.0,2 bedroom flat,2025-09-30
+Bendigo,Bendigo,Sep 2025,57.0,400.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,602.0,590.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Berwick,Sep 2025,63.0,500.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,189.0,550.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,112.0,500.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,1158.0,610.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,275.0,680.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,62.0,630.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,212.0,470.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,600.0,600.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,451.0,595.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,404.0,490.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,181.0,570.0,2 bedroom flat,2025-09-30
+Inner Melbourne,CBD-St Kilda Rd,Sep 2025,6605.0,735.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,539.0,600.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,210.0,570.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,69.0,600.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,1235.0,670.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,487.0,595.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Castlemaine,Sep 2025,19.0,390.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,1021.0,630.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,350.0,580.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,627.0,550.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,769.0,590.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,372.0,550.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,702.0,695.0,2 bedroom flat,2025-09-30
+Geelong,Corio,Sep 2025,74.0,380.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Craigieburn,Sep 2025,116.0,440.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,100.0,460.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,333.0,500.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,598.0,450.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,154.0,468.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Docklands,Sep 2025,1512.0,763.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,184.0,575.0,2 bedroom flat,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,164.0,478.0,2 bedroom flat,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,408.0,625.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,422.0,610.0,2 bedroom flat,2025-09-30
+Inner Melbourne,East Melbourne,Sep 2025,177.0,690.0,2 bedroom flat,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,712.0,575.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,73.0,420.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,284.0,600.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,90.0,500.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,610.0,608.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,672.0,510.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,227.0,575.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Ferntree Gully,Sep 2025,65.0,520.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Fitzroy,Sep 2025,223.0,750.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,267.0,690.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,657.0,560.0,2 bedroom flat,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,128.0,380.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,763.0,560.0,2 bedroom flat,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,427.0,475.0,2 bedroom flat,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,315.0,460.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Gladstone Park-Tullamarine,Sep 2025,83.0,450.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,297.0,640.0,2 bedroom flat,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,53.0,380.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Hamilton,Sep 2025,35.0,320.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,362.0,650.0,2 bedroom flat,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,87.0,470.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,735.0,600.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,418.0,530.0,2 bedroom flat,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,139.0,410.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,87.0,320.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,347.0,600.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,356.0,520.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,358.0,575.0,2 bedroom flat,2025-09-30
+Geelong,Lara,Sep 2025,28.0,415.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,150.0,600.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,357.0,600.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,85.0,365.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,411.0,550.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,199.0,350.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,197.0,450.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Moe-Newborough,Sep 2025,63.0,310.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,461.0,550.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Morwell,Sep 2025,86.0,320.0,2 bedroom flat,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,25.0,360.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,131.0,540.0,2 bedroom flat,2025-09-30
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,Sep 2025,173.0,535.0,2 bedroom flat,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,248.0,570.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,120.0,470.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,275.0,575.0,2 bedroom flat,2025-09-30
+Geelong,Newtown,Sep 2025,96.0,440.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,385.0,495.0,2 bedroom flat,2025-09-30
+Bendigo,North Bendigo,Sep 2025,86.0,398.0,2 bedroom flat,2025-09-30
+Geelong,North Geelong,Sep 2025,87.0,420.0,2 bedroom flat,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,1239.0,660.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,266.0,600.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,223.0,520.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,530.0,490.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Ocean Grove-Barwon Heads,Sep 2025,62.0,468.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Pakenham,Sep 2025,92.0,450.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,352.0,500.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,370.0,745.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Portland,Sep 2025,82.0,350.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,679.0,650.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,521.0,550.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,646.0,500.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,881.0,700.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,428.0,520.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Rowville,Sep 2025,23.0,530.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,127.0,360.0,2 bedroom flat,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,215.0,470.0,2 bedroom flat,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,121.0,350.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Seymour,Sep 2025,29.0,360.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,349.0,385.0,2 bedroom flat,2025-09-30
+Inner Melbourne,South Melbourne,Sep 2025,485.0,700.0,2 bedroom flat,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,1288.0,700.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Southbank,Sep 2025,2385.0,720.0,2 bedroom flat,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,456.0,520.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,272.0,420.0,2 bedroom flat,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,1040.0,630.0,2 bedroom flat,2025-09-30
+North Western Melbourne,Sunbury,Sep 2025,94.0,440.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,328.0,410.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Swan Hill,Sep 2025,52.0,355.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Sydenham,Sep 2025,112.0,450.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,196.0,450.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,276.0,520.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,253.0,650.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Torquay,Sep 2025,28.0,500.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,99.0,365.0,2 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,166.0,578.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,125.0,350.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,113.0,510.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Warragul,Sep 2025,64.0,410.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,229.0,420.0,2 bedroom flat,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,97.0,350.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,485.0,405.0,2 bedroom flat,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,379.0,500.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,317.0,475.0,2 bedroom flat,2025-09-30
+North Eastern Melbourne,Whittlesea,Sep 2025,48.0,440.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,130.0,523.0,2 bedroom flat,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,191.0,385.0,2 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,46.0,488.0,2 bedroom flat,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,231.0,520.0,2 bedroom flat,2025-09-30
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,84.0,760.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,208.0,490.0,2 bedroom house,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,31.0,830.0,2 bedroom house,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,45.0,550.0,2 bedroom house,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,54.0,390.0,2 bedroom house,2025-09-30
+Ballarat,Ballarat,Sep 2025,174.0,360.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,21.0,570.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,35.0,500.0,2 bedroom house,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,78.0,450.0,2 bedroom house,2025-09-30
+Other Regional Centres,Benalla,Sep 2025,40.0,380.0,2 bedroom house,2025-09-30
+Bendigo,Bendigo,Sep 2025,48.0,470.0,2 bedroom house,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,59.0,600.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Berwick,Sep 2025,61.0,490.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,30.0,550.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,50.0,520.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,65.0,540.0,2 bedroom house,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,19.0,760.0,2 bedroom house,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,23.0,690.0,2 bedroom house,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,95.0,460.0,2 bedroom house,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,187.0,660.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,35.0,570.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,105.0,500.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,47.0,580.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,60.0,660.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,24.0,620.0,2 bedroom house,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,106.0,755.0,2 bedroom house,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,57.0,670.0,2 bedroom house,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,30.0,600.0,2 bedroom house,2025-09-30
+Other Regional Centres,Castlemaine,Sep 2025,25.0,430.0,2 bedroom house,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,68.0,633.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,30.0,570.0,2 bedroom house,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,71.0,585.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,47.0,550.0,2 bedroom house,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,155.0,580.0,2 bedroom house,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,92.0,720.0,2 bedroom house,2025-09-30
+Geelong,Corio,Sep 2025,121.0,380.0,2 bedroom house,2025-09-30
+North Western Melbourne,Craigieburn,Sep 2025,91.0,450.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,129.0,490.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,118.0,525.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,57.0,490.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,38.0,475.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,21.0,530.0,2 bedroom house,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,153.0,490.0,2 bedroom house,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,67.0,710.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,28.0,698.0,2 bedroom house,2025-09-30
+Inner Melbourne,East Melbourne,Sep 2025,18.0,875.0,2 bedroom house,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,46.0,763.0,2 bedroom house,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,22.0,418.0,2 bedroom house,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,20.0,718.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,22.0,500.0,2 bedroom house,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,33.0,795.0,2 bedroom house,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,80.0,550.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,25.0,650.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Ferntree Gully,Sep 2025,20.0,518.0,2 bedroom house,2025-09-30
+Inner Melbourne,Fitzroy,Sep 2025,52.0,848.0,2 bedroom house,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,138.0,740.0,2 bedroom house,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,166.0,620.0,2 bedroom house,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,70.0,420.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,118.0,573.0,2 bedroom house,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,97.0,490.0,2 bedroom house,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,112.0,440.0,2 bedroom house,2025-09-30
+North Western Melbourne,Gladstone Park-Tullamarine,Sep 2025,18.0,500.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,29.0,590.0,2 bedroom house,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,38.0,420.0,2 bedroom house,2025-09-30
+Other Regional Centres,Hamilton,Sep 2025,26.0,330.0,2 bedroom house,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,39.0,650.0,2 bedroom house,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,26.0,498.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,54.0,710.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,80.0,510.0,2 bedroom house,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,69.0,460.0,2 bedroom house,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,46.0,350.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,19.0,600.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,38.0,520.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,40.0,663.0,2 bedroom house,2025-09-30
+Geelong,Lara,Sep 2025,19.0,430.0,2 bedroom house,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,17.0,790.0,2 bedroom house,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,36.0,650.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,65.0,375.0,2 bedroom house,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,47.0,600.0,2 bedroom house,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,113.0,380.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,116.0,480.0,2 bedroom house,2025-09-30
+Other Regional Centres,Moe-Newborough,Sep 2025,51.0,350.0,2 bedroom house,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,118.0,620.0,2 bedroom house,2025-09-30
+Other Regional Centres,Morwell,Sep 2025,77.0,350.0,2 bedroom house,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,12.0,365.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,31.0,570.0,2 bedroom house,2025-09-30
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,Sep 2025,28.0,533.0,2 bedroom house,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,23.0,590.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,84.0,475.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,61.0,580.0,2 bedroom house,2025-09-30
+Geelong,Newtown,Sep 2025,39.0,485.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,42.0,480.0,2 bedroom house,2025-09-30
+Bendigo,North Bendigo,Sep 2025,70.0,420.0,2 bedroom house,2025-09-30
+Geelong,North Geelong,Sep 2025,66.0,440.0,2 bedroom house,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,59.0,650.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,128.0,700.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,51.0,525.0,2 bedroom house,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,133.0,500.0,2 bedroom house,2025-09-30
+Other Regional Centres,Ocean Grove-Barwon Heads,Sep 2025,21.0,520.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Pakenham,Sep 2025,87.0,460.0,2 bedroom house,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,76.0,540.0,2 bedroom house,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,91.0,740.0,2 bedroom house,2025-09-30
+Other Regional Centres,Portland,Sep 2025,21.0,380.0,2 bedroom house,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,179.0,775.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,112.0,588.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,180.0,500.0,2 bedroom house,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,258.0,750.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,92.0,520.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Rowville,Sep 2025,15.0,550.0,2 bedroom house,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,41.0,400.0,2 bedroom house,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,49.0,490.0,2 bedroom house,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,68.0,360.0,2 bedroom house,2025-09-30
+Other Regional Centres,Seymour,Sep 2025,19.0,380.0,2 bedroom house,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,63.0,390.0,2 bedroom house,2025-09-30
+Inner Melbourne,South Melbourne,Sep 2025,73.0,750.0,2 bedroom house,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,105.0,780.0,2 bedroom house,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,43.0,510.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,61.0,420.0,2 bedroom house,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,36.0,728.0,2 bedroom house,2025-09-30
+North Western Melbourne,Sunbury,Sep 2025,24.0,440.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,101.0,460.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Sydenham,Sep 2025,68.0,440.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,43.0,470.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,74.0,650.0,2 bedroom house,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,16.0,695.0,2 bedroom house,2025-09-30
+Other Regional Centres,Torquay,Sep 2025,31.0,535.0,2 bedroom house,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,44.0,390.0,2 bedroom house,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,25.0,540.0,2 bedroom house,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,30.0,400.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,32.0,550.0,2 bedroom house,2025-09-30
+Other Regional Centres,Warragul,Sep 2025,23.0,420.0,2 bedroom house,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,71.0,450.0,2 bedroom house,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,77.0,370.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,210.0,420.0,2 bedroom house,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,49.0,590.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,110.0,500.0,2 bedroom house,2025-09-30
+North Eastern Melbourne,Whittlesea,Sep 2025,50.0,450.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,43.0,600.0,2 bedroom house,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,46.0,418.0,2 bedroom house,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,91.0,500.0,2 bedroom house,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,198.0,600.0,2 bedroom house,2025-09-30
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,21.0,825.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,198.0,550.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,55.0,1000.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,163.0,675.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,10.0,458.0,3 bedroom flat,2025-09-30
+Ballarat,Ballarat,Sep 2025,85.0,400.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,86.0,798.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,64.0,590.0,3 bedroom flat,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,87.0,500.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,202.0,750.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Berwick,Sep 2025,69.0,550.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,74.0,644.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,76.0,600.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,228.0,710.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,105.0,1000.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,24.0,738.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,131.0,520.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,67.0,840.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,191.0,720.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,164.0,580.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,104.0,720.0,3 bedroom flat,2025-09-30
+Inner Melbourne,CBD-St Kilda Rd,Sep 2025,737.0,1050.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,175.0,815.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,69.0,740.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,16.0,778.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,100.0,855.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,81.0,775.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,220.0,810.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,176.0,680.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,106.0,693.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,287.0,650.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,55.0,700.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,76.0,1000.0,3 bedroom flat,2025-09-30
+Geelong,Corio,Sep 2025,42.0,445.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Craigieburn,Sep 2025,81.0,485.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,96.0,530.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,266.0,620.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,180.0,570.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,96.0,550.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Docklands,Sep 2025,169.0,1200.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,137.0,695.0,3 bedroom flat,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,156.0,600.0,3 bedroom flat,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,52.0,880.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,63.0,890.0,3 bedroom flat,2025-09-30
+Inner Melbourne,East Melbourne,Sep 2025,36.0,1175.0,3 bedroom flat,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,149.0,840.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,11.0,450.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,61.0,800.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,45.0,620.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,89.0,875.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,174.0,650.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,40.0,815.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Ferntree Gully,Sep 2025,53.0,580.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Fitzroy,Sep 2025,32.0,1175.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,39.0,1050.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,53.0,850.0,3 bedroom flat,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,36.0,450.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,116.0,698.0,3 bedroom flat,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,149.0,560.0,3 bedroom flat,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,66.0,518.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Gladstone Park-Tullamarine,Sep 2025,50.0,553.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,221.0,660.0,3 bedroom flat,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,17.0,470.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,98.0,900.0,3 bedroom flat,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,59.0,550.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,93.0,850.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,155.0,650.0,3 bedroom flat,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,32.0,575.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,26.0,415.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,66.0,750.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,122.0,623.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,135.0,850.0,3 bedroom flat,2025-09-30
+Geelong,Lara,Sep 2025,32.0,485.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,42.0,908.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,73.0,800.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,97.0,400.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,95.0,720.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,50.0,450.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,126.0,520.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,88.0,730.0,3 bedroom flat,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,16.0,390.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,121.0,700.0,3 bedroom flat,2025-09-30
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,Sep 2025,94.0,650.0,3 bedroom flat,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,59.0,750.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,106.0,545.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,79.0,725.0,3 bedroom flat,2025-09-30
+Geelong,Newtown,Sep 2025,23.0,590.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,157.0,580.0,3 bedroom flat,2025-09-30
+Bendigo,North Bendigo,Sep 2025,25.0,475.0,3 bedroom flat,2025-09-30
+Geelong,North Geelong,Sep 2025,73.0,500.0,3 bedroom flat,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,160.0,882.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,46.0,850.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,100.0,650.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,242.0,600.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Ocean Grove-Barwon Heads,Sep 2025,45.0,560.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Pakenham,Sep 2025,101.0,500.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,96.0,628.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,111.0,1175.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Portland,Sep 2025,12.0,475.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,94.0,950.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,89.0,695.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,223.0,620.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,132.0,1000.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,109.0,620.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Rowville,Sep 2025,42.0,628.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,29.0,470.0,3 bedroom flat,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,125.0,560.0,3 bedroom flat,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,41.0,390.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,83.0,490.0,3 bedroom flat,2025-09-30
+Inner Melbourne,South Melbourne,Sep 2025,71.0,950.0,3 bedroom flat,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,140.0,1100.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Southbank,Sep 2025,355.0,1010.0,3 bedroom flat,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,208.0,650.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,169.0,482.0,3 bedroom flat,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,115.0,890.0,3 bedroom flat,2025-09-30
+North Western Melbourne,Sunbury,Sep 2025,64.0,480.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,131.0,530.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Sydenham,Sep 2025,170.0,460.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,74.0,501.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,44.0,748.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,90.0,1000.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Torquay,Sep 2025,31.0,660.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,12.0,488.0,3 bedroom flat,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,73.0,650.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,25.0,420.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,119.0,610.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,45.0,500.0,3 bedroom flat,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,26.0,413.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,330.0,450.0,3 bedroom flat,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,50.0,725.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,95.0,620.0,3 bedroom flat,2025-09-30
+North Eastern Melbourne,Whittlesea,Sep 2025,38.0,500.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,29.0,670.0,3 bedroom flat,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,46.0,450.0,3 bedroom flat,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,22.0,550.0,3 bedroom flat,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,29.0,730.0,3 bedroom flat,2025-09-30
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,80.0,1150.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,1296.0,530.0,3 bedroom house,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,51.0,1100.0,3 bedroom house,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,223.0,680.0,3 bedroom house,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,135.0,460.0,3 bedroom house,2025-09-30
+Ballarat,Ballarat,Sep 2025,583.0,410.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,138.0,750.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,159.0,590.0,3 bedroom house,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,749.0,500.0,3 bedroom house,2025-09-30
+Other Regional Centres,Benalla,Sep 2025,147.0,450.0,3 bedroom house,2025-09-30
+Bendigo,Bendigo,Sep 2025,135.0,480.0,3 bedroom house,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,346.0,735.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Berwick,Sep 2025,703.0,560.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,182.0,620.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,184.0,590.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,234.0,650.0,3 bedroom house,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,81.0,1150.0,3 bedroom house,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,74.0,940.0,3 bedroom house,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,705.0,506.0,3 bedroom house,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,177.0,850.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,259.0,660.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,718.0,570.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,191.0,650.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,158.0,838.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,79.0,800.0,3 bedroom house,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,77.0,950.0,3 bedroom house,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,51.0,950.0,3 bedroom house,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,49.0,750.0,3 bedroom house,2025-09-30
+Other Regional Centres,Castlemaine,Sep 2025,67.0,500.0,3 bedroom house,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,147.0,850.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,175.0,630.0,3 bedroom house,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,354.0,720.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,202.0,603.0,3 bedroom house,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,260.0,710.0,3 bedroom house,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,60.0,950.0,3 bedroom house,2025-09-30
+Geelong,Corio,Sep 2025,528.0,420.0,3 bedroom house,2025-09-30
+North Western Melbourne,Craigieburn,Sep 2025,1059.0,500.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,1622.0,550.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,610.0,600.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,321.0,560.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,462.0,530.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,194.0,680.0,3 bedroom house,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,678.0,570.0,3 bedroom house,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,76.0,880.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,48.0,898.0,3 bedroom house,2025-09-30
+Inner Melbourne,East Melbourne,Sep 2025,17.0,1100.0,3 bedroom house,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,73.0,900.0,3 bedroom house,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,130.0,520.0,3 bedroom house,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,36.0,900.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,157.0,650.0,3 bedroom house,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,66.0,1095.0,3 bedroom house,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,282.0,650.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,69.0,850.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Ferntree Gully,Sep 2025,198.0,600.0,3 bedroom house,2025-09-30
+Inner Melbourne,Fitzroy,Sep 2025,48.0,1100.0,3 bedroom house,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,88.0,998.0,3 bedroom house,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,125.0,760.0,3 bedroom house,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,271.0,475.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,141.0,640.0,3 bedroom house,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,715.0,570.0,3 bedroom house,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,413.0,480.0,3 bedroom house,2025-09-30
+North Western Melbourne,Gladstone Park-Tullamarine,Sep 2025,197.0,530.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,520.0,640.0,3 bedroom house,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,306.0,480.0,3 bedroom house,2025-09-30
+Other Regional Centres,Hamilton,Sep 2025,97.0,390.0,3 bedroom house,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,156.0,895.0,3 bedroom house,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,221.0,595.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,69.0,950.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,236.0,600.0,3 bedroom house,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,227.0,520.0,3 bedroom house,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,233.0,430.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,71.0,750.0,3 bedroom house,2025-09-30
+North Western Melbourne,Keilor,Sep 2025,11.0,630.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,282.0,580.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,111.0,850.0,3 bedroom house,2025-09-30
+Geelong,Lara,Sep 2025,166.0,500.0,3 bedroom house,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,49.0,1000.0,3 bedroom house,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,119.0,750.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,1319.0,420.0,3 bedroom house,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,160.0,750.0,3 bedroom house,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,653.0,480.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,795.0,530.0,3 bedroom house,2025-09-30
+Other Regional Centres,Moe-Newborough,Sep 2025,183.0,420.0,3 bedroom house,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,185.0,750.0,3 bedroom house,2025-09-30
+Other Regional Centres,Morwell,Sep 2025,261.0,400.0,3 bedroom house,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,57.0,430.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,219.0,660.0,3 bedroom house,2025-09-30
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,Sep 2025,304.0,675.0,3 bedroom house,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,85.0,730.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,936.0,550.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,154.0,700.0,3 bedroom house,2025-09-30
+Geelong,Newtown,Sep 2025,96.0,570.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,279.0,550.0,3 bedroom house,2025-09-30
+Bendigo,North Bendigo,Sep 2025,391.0,480.0,3 bedroom house,2025-09-30
+Geelong,North Geelong,Sep 2025,322.0,495.0,3 bedroom house,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,62.0,853.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,143.0,850.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,203.0,625.0,3 bedroom house,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,368.0,551.0,3 bedroom house,2025-09-30
+Other Regional Centres,Ocean Grove-Barwon Heads,Sep 2025,165.0,550.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Pakenham,Sep 2025,715.0,530.0,3 bedroom house,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,163.0,620.0,3 bedroom house,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,140.0,980.0,3 bedroom house,2025-09-30
+Other Regional Centres,Portland,Sep 2025,123.0,430.0,3 bedroom house,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,150.0,975.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,237.0,675.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,369.0,560.0,3 bedroom house,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,214.0,990.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,302.0,600.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Rowville,Sep 2025,155.0,600.0,3 bedroom house,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,240.0,450.0,3 bedroom house,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,652.0,560.0,3 bedroom house,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,395.0,400.0,3 bedroom house,2025-09-30
+Other Regional Centres,Seymour,Sep 2025,68.0,420.0,3 bedroom house,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,637.0,475.0,3 bedroom house,2025-09-30
+Inner Melbourne,South Melbourne,Sep 2025,66.0,950.0,3 bedroom house,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,91.0,1100.0,3 bedroom house,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,365.0,570.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,679.0,470.0,3 bedroom house,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,55.0,950.0,3 bedroom house,2025-09-30
+North Western Melbourne,Sunbury,Sep 2025,310.0,490.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,509.0,495.0,3 bedroom house,2025-09-30
+Other Regional Centres,Swan Hill,Sep 2025,97.0,475.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Sydenham,Sep 2025,1391.0,480.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,510.0,510.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,102.0,798.0,3 bedroom house,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,46.0,1250.0,3 bedroom house,2025-09-30
+Other Regional Centres,Torquay,Sep 2025,160.0,650.0,3 bedroom house,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,372.0,460.0,3 bedroom house,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,287.0,630.0,3 bedroom house,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,228.0,480.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,312.0,597.0,3 bedroom house,2025-09-30
+Other Regional Centres,Warragul,Sep 2025,142.0,483.0,3 bedroom house,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,313.0,550.0,3 bedroom house,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,511.0,410.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,3643.0,460.0,3 bedroom house,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,70.0,755.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,263.0,600.0,3 bedroom house,2025-09-30
+North Eastern Melbourne,Whittlesea,Sep 2025,662.0,510.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,116.0,800.0,3 bedroom house,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,493.0,500.0,3 bedroom house,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,287.0,595.0,3 bedroom house,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,321.0,720.0,3 bedroom house,2025-09-30
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,35.0,1400.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,1804.0,580.0,4 bedroom house,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,14.0,1738.0,4 bedroom house,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,113.0,870.0,4 bedroom house,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,125.0,550.0,4 bedroom house,2025-09-30
+Ballarat,Ballarat,Sep 2025,175.0,475.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,187.0,1000.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,57.0,675.0,4 bedroom house,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,510.0,550.0,4 bedroom house,2025-09-30
+Other Regional Centres,Benalla,Sep 2025,95.0,570.0,4 bedroom house,2025-09-30
+Bendigo,Bendigo,Sep 2025,24.0,580.0,4 bedroom house,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,301.0,1025.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Berwick,Sep 2025,1158.0,620.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,101.0,800.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,54.0,680.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,132.0,808.0,4 bedroom house,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,98.0,1650.0,4 bedroom house,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,86.0,1295.0,4 bedroom house,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,423.0,600.0,4 bedroom house,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,44.0,1000.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,418.0,820.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,532.0,600.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,136.0,878.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,151.0,1195.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,103.0,1100.0,4 bedroom house,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,12.0,1225.0,4 bedroom house,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,29.0,1100.0,4 bedroom house,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,31.0,1100.0,4 bedroom house,2025-09-30
+Other Regional Centres,Castlemaine,Sep 2025,25.0,580.0,4 bedroom house,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,119.0,1250.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,79.0,850.0,4 bedroom house,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,199.0,950.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,115.0,800.0,4 bedroom house,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,93.0,850.0,4 bedroom house,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,13.0,1200.0,4 bedroom house,2025-09-30
+Geelong,Corio,Sep 2025,66.0,485.0,4 bedroom house,2025-09-30
+North Western Melbourne,Craigieburn,Sep 2025,1613.0,560.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,2739.0,600.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,252.0,730.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,186.0,750.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,139.0,630.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,256.0,830.0,4 bedroom house,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,325.0,745.0,4 bedroom house,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,17.0,1100.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,37.0,1300.0,4 bedroom house,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,23.0,1100.0,4 bedroom house,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,55.0,640.0,4 bedroom house,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,18.0,1150.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,90.0,813.0,4 bedroom house,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,26.0,1500.0,4 bedroom house,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,145.0,895.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,26.0,1113.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Ferntree Gully,Sep 2025,74.0,720.0,4 bedroom house,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,46.0,1295.0,4 bedroom house,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,31.0,945.0,4 bedroom house,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,103.0,570.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,24.0,750.0,4 bedroom house,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,310.0,670.0,4 bedroom house,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,81.0,575.0,4 bedroom house,2025-09-30
+North Western Melbourne,Gladstone Park-Tullamarine,Sep 2025,58.0,620.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,546.0,780.0,4 bedroom house,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,84.0,550.0,4 bedroom house,2025-09-30
+Other Regional Centres,Hamilton,Sep 2025,17.0,460.0,4 bedroom house,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,165.0,1295.0,4 bedroom house,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,118.0,750.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,35.0,1500.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,86.0,795.0,4 bedroom house,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,67.0,660.0,4 bedroom house,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,50.0,520.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,46.0,1000.0,4 bedroom house,2025-09-30
+North Western Melbourne,Keilor,Sep 2025,23.0,730.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,102.0,768.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,106.0,1300.0,4 bedroom house,2025-09-30
+Geelong,Lara,Sep 2025,272.0,580.0,4 bedroom house,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,23.0,1400.0,4 bedroom house,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,61.0,1150.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,1916.0,470.0,4 bedroom house,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,89.0,910.0,4 bedroom house,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,223.0,580.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,421.0,600.0,4 bedroom house,2025-09-30
+Other Regional Centres,Moe-Newborough,Sep 2025,67.0,525.0,4 bedroom house,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,80.0,995.0,4 bedroom house,2025-09-30
+Other Regional Centres,Morwell,Sep 2025,74.0,493.0,4 bedroom house,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,45.0,480.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,155.0,800.0,4 bedroom house,2025-09-30
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,Sep 2025,243.0,895.0,4 bedroom house,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,50.0,1050.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,575.0,640.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,55.0,925.0,4 bedroom house,2025-09-30
+Geelong,Newtown,Sep 2025,41.0,700.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,41.0,630.0,4 bedroom house,2025-09-30
+Bendigo,North Bendigo,Sep 2025,232.0,550.0,4 bedroom house,2025-09-30
+Geelong,North Geelong,Sep 2025,93.0,580.0,4 bedroom house,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,22.0,1080.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,51.0,1250.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,80.0,745.0,4 bedroom house,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,102.0,660.0,4 bedroom house,2025-09-30
+Other Regional Centres,Ocean Grove-Barwon Heads,Sep 2025,136.0,650.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Pakenham,Sep 2025,636.0,590.0,4 bedroom house,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,54.0,785.0,4 bedroom house,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,54.0,1125.0,4 bedroom house,2025-09-30
+Other Regional Centres,Portland,Sep 2025,38.0,565.0,4 bedroom house,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,29.0,1350.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,57.0,925.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,77.0,700.0,4 bedroom house,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,42.0,1315.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,153.0,710.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Rowville,Sep 2025,121.0,725.0,4 bedroom house,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,152.0,550.0,4 bedroom house,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,272.0,660.0,4 bedroom house,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,704.0,455.0,4 bedroom house,2025-09-30
+Other Regional Centres,Seymour,Sep 2025,35.0,530.0,4 bedroom house,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,249.0,590.0,4 bedroom house,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,29.0,1700.0,4 bedroom house,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,102.0,683.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,221.0,550.0,4 bedroom house,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,16.0,1105.0,4 bedroom house,2025-09-30
+North Western Melbourne,Sunbury,Sep 2025,458.0,570.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,123.0,600.0,4 bedroom house,2025-09-30
+Other Regional Centres,Swan Hill,Sep 2025,34.0,560.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Sydenham,Sep 2025,2088.0,530.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,65.0,590.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,24.0,960.0,4 bedroom house,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,31.0,1875.0,4 bedroom house,2025-09-30
+Other Regional Centres,Torquay,Sep 2025,166.0,750.0,4 bedroom house,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,192.0,580.0,4 bedroom house,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,192.0,750.0,4 bedroom house,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,70.0,555.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,244.0,700.0,4 bedroom house,2025-09-30
+Other Regional Centres,Warragul,Sep 2025,266.0,590.0,4 bedroom house,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,136.0,680.0,4 bedroom house,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,551.0,480.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,5691.0,525.0,4 bedroom house,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,27.0,1000.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,79.0,725.0,4 bedroom house,2025-09-30
+North Eastern Melbourne,Whittlesea,Sep 2025,1553.0,550.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,43.0,1000.0,4 bedroom house,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,290.0,590.0,4 bedroom house,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,123.0,695.0,4 bedroom house,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,50.0,850.0,4 bedroom house,2025-09-30
+Inner Melbourne,Albert Park-Middle Park-West St Kilda,Sep 2025,578.0,698.0,All properties,2025-09-30
+Outer Western Melbourne,Altona,Sep 2025,4394.0,550.0,All properties,2025-09-30
+Inner Melbourne,Armadale,Sep 2025,635.0,625.0,All properties,2025-09-30
+Southern Melbourne,Aspendale-Chelsea-Carrum,Sep 2025,1102.0,620.0,All properties,2025-09-30
+Other Regional Centres,Bairnsdale,Sep 2025,387.0,460.0,All properties,2025-09-30
+Ballarat,Ballarat,Sep 2025,1321.0,400.0,All properties,2025-09-30
+Inner Eastern Melbourne,Balwyn,Sep 2025,839.0,740.0,All properties,2025-09-30
+Outer Eastern Melbourne,Bayswater,Sep 2025,498.0,550.0,All properties,2025-09-30
+Geelong,Belmont-Grovedale,Sep 2025,1942.0,500.0,All properties,2025-09-30
+Other Regional Centres,Benalla,Sep 2025,368.0,450.0,All properties,2025-09-30
+Bendigo,Bendigo,Sep 2025,301.0,470.0,All properties,2025-09-30
+Southern Melbourne,Bentleigh,Sep 2025,2039.0,700.0,All properties,2025-09-30
+South Eastern Melbourne,Berwick,Sep 2025,2324.0,600.0,All properties,2025-09-30
+Inner Eastern Melbourne,Blackburn,Sep 2025,750.0,600.0,All properties,2025-09-30
+Outer Eastern Melbourne,Boronia,Sep 2025,554.0,560.0,All properties,2025-09-30
+Inner Eastern Melbourne,Box Hill,Sep 2025,2437.0,610.0,All properties,2025-09-30
+Southern Melbourne,Brighton,Sep 2025,726.0,825.0,All properties,2025-09-30
+Southern Melbourne,Brighton East,Sep 2025,426.0,835.0,All properties,2025-09-30
+North Western Melbourne,Broadmeadows-Roxburgh Park,Sep 2025,1880.0,515.0,All properties,2025-09-30
+North Western Melbourne,Brunswick,Sep 2025,1652.0,600.0,All properties,2025-09-30
+Inner Eastern Melbourne,Bulleen-Templestowe-Doncaster,Sep 2025,1700.0,670.0,All properties,2025-09-30
+North Eastern Melbourne,Bundoora-Greensborough-Hurstbridge,Sep 2025,2316.0,560.0,All properties,2025-09-30
+Inner Eastern Melbourne,Burwood-Ashburton,Sep 2025,906.0,650.0,All properties,2025-09-30
+Inner Melbourne,CBD-St Kilda Rd,Sep 2025,13655.0,660.0,All properties,2025-09-30
+Inner Eastern Melbourne,Camberwell-Glen Iris,Sep 2025,1402.0,650.0,All properties,2025-09-30
+Inner Eastern Melbourne,Canterbury-Surrey Hills-Mont Albert,Sep 2025,566.0,678.0,All properties,2025-09-30
+Inner Melbourne,Carlton North,Sep 2025,361.0,760.0,All properties,2025-09-30
+Inner Melbourne,Carlton-Parkville,Sep 2025,2593.0,620.0,All properties,2025-09-30
+Southern Melbourne,Carnegie,Sep 2025,1037.0,570.0,All properties,2025-09-30
+Other Regional Centres,Castlemaine,Sep 2025,153.0,475.0,All properties,2025-09-30
+Southern Melbourne,Caulfield,Sep 2025,2292.0,650.0,All properties,2025-09-30
+Inner Eastern Melbourne,Chadstone-Oakleigh,Sep 2025,1067.0,620.0,All properties,2025-09-30
+Southern Melbourne,Cheltenham,Sep 2025,1642.0,635.0,All properties,2025-09-30
+Inner Eastern Melbourne,Clayton,Sep 2025,2178.0,600.0,All properties,2025-09-30
+North Western Melbourne,Coburg-Pascoe Vale South,Sep 2025,1243.0,600.0,All properties,2025-09-30
+Inner Melbourne,Collingwood-Abbotsford,Sep 2025,1646.0,650.0,All properties,2025-09-30
+Geelong,Corio,Sep 2025,906.0,400.0,All properties,2025-09-30
+North Western Melbourne,Craigieburn,Sep 2025,3259.0,520.0,All properties,2025-09-30
+South Eastern Melbourne,Cranbourne,Sep 2025,5205.0,580.0,All properties,2025-09-30
+Outer Eastern Melbourne,Croydon-Lilydale,Sep 2025,1803.0,600.0,All properties,2025-09-30
+South Eastern Melbourne,Dandenong,Sep 2025,1601.0,520.0,All properties,2025-09-30
+South Eastern Melbourne,Dandenong North-Endeavour Hills,Sep 2025,980.0,530.0,All properties,2025-09-30
+Inner Melbourne,Docklands,Sep 2025,2950.0,700.0,All properties,2025-09-30
+Inner Eastern Melbourne,Doncaster East-Donvale,Sep 2025,987.0,700.0,All properties,2025-09-30
+Mornington Peninsula,Dromana-Portsea,Sep 2025,1681.0,595.0,All properties,2025-09-30
+North Western Melbourne,East Brunswick,Sep 2025,1001.0,600.0,All properties,2025-09-30
+Inner Eastern Melbourne,East Hawthorn,Sep 2025,881.0,595.0,All properties,2025-09-30
+Inner Melbourne,East Melbourne,Sep 2025,431.0,650.0,All properties,2025-09-30
+Inner Melbourne,East St Kilda,Sep 2025,1495.0,550.0,All properties,2025-09-30
+Other Regional Centres,Echuca,Sep 2025,316.0,470.0,All properties,2025-09-30
+Southern Melbourne,Elsternwick,Sep 2025,607.0,600.0,All properties,2025-09-30
+North Eastern Melbourne,Eltham-Research-Montmorency,Sep 2025,500.0,640.0,All properties,2025-09-30
+Inner Melbourne,Elwood,Sep 2025,1183.0,595.0,All properties,2025-09-30
+North Western Melbourne,Essendon,Sep 2025,1961.0,550.0,All properties,2025-09-30
+North Eastern Melbourne,Fairfield-Alphington,Sep 2025,676.0,550.0,All properties,2025-09-30
+Outer Eastern Melbourne,Ferntree Gully,Sep 2025,452.0,600.0,All properties,2025-09-30
+Inner Melbourne,Fitzroy,Sep 2025,611.0,700.0,All properties,2025-09-30
+Inner Melbourne,Fitzroy North-Clifton Hill,Sep 2025,887.0,725.0,All properties,2025-09-30
+Inner Melbourne,Flemington-Kensington,Sep 2025,1638.0,570.0,All properties,2025-09-30
+Bendigo,Flora Hill-Bendigo East,Sep 2025,680.0,460.0,All properties,2025-09-30
+Outer Western Melbourne,Footscray,Sep 2025,1757.0,525.0,All properties,2025-09-30
+Mornington Peninsula,Frankston,Sep 2025,1990.0,550.0,All properties,2025-09-30
+Geelong,Geelong-Newcombe,Sep 2025,1183.0,470.0,All properties,2025-09-30
+North Western Melbourne,Gladstone Park-Tullamarine,Sep 2025,485.0,530.0,All properties,2025-09-30
+Inner Eastern Melbourne,Glen Waverley-Mulgrave,Sep 2025,1967.0,695.0,All properties,2025-09-30
+Bendigo,Golden Square-Kangaroo Flat,Sep 2025,531.0,475.0,All properties,2025-09-30
+Other Regional Centres,Hamilton,Sep 2025,211.0,370.0,All properties,2025-09-30
+Southern Melbourne,Hampton-Beaumaris,Sep 2025,1012.0,750.0,All properties,2025-09-30
+Mornington Peninsula,Hastings-Flinders,Sep 2025,587.0,580.0,All properties,2025-09-30
+Inner Eastern Melbourne,Hawthorn,Sep 2025,1531.0,550.0,All properties,2025-09-30
+North Eastern Melbourne,Heidelberg-Heidelberg West,Sep 2025,1318.0,565.0,All properties,2025-09-30
+Geelong,Herne Hill-Geelong West,Sep 2025,679.0,480.0,All properties,2025-09-30
+Other Regional Centres,Horsham,Sep 2025,475.0,390.0,All properties,2025-09-30
+North Eastern Melbourne,Ivanhoe-Ivanhoe East,Sep 2025,791.0,600.0,All properties,2025-09-30
+North Western Melbourne,Keilor,Sep 2025,43.0,650.0,All properties,2025-09-30
+Outer Western Melbourne,Keilor East-Avondale Heights,Sep 2025,1233.0,550.0,All properties,2025-09-30
+Inner Eastern Melbourne,Kew,Sep 2025,887.0,690.0,All properties,2025-09-30
+Geelong,Lara,Sep 2025,549.0,550.0,All properties,2025-09-30
+Southern Melbourne,Malvern,Sep 2025,399.0,630.0,All properties,2025-09-30
+Southern Melbourne,Malvern East,Sep 2025,905.0,610.0,All properties,2025-09-30
+Outer Western Melbourne,Melton,Sep 2025,3699.0,450.0,All properties,2025-09-30
+Southern Melbourne,Mentone-Parkdale-Mordialloc,Sep 2025,1081.0,580.0,All properties,2025-09-30
+Other Regional Centres,Mildura,Sep 2025,1344.0,460.0,All properties,2025-09-30
+North Eastern Melbourne,Mill Park-Epping,Sep 2025,1937.0,530.0,All properties,2025-09-30
+Other Regional Centres,Moe-Newborough,Sep 2025,431.0,390.0,All properties,2025-09-30
+North Western Melbourne,Moonee Ponds-Ascot Vale,Sep 2025,1396.0,575.0,All properties,2025-09-30
+Other Regional Centres,Morwell,Sep 2025,557.0,380.0,All properties,2025-09-30
+Ballarat,Mount Clear-Buninyong,Sep 2025,182.0,420.0,All properties,2025-09-30
+Inner Eastern Melbourne,Mount Waverley,Sep 2025,860.0,695.0,All properties,2025-09-30
+Mornington Peninsula,Mt Eliza-Mornington-Mt Martha,Sep 2025,962.0,695.0,All properties,2025-09-30
+Southern Melbourne,Murrumbeena-Hughesdale,Sep 2025,710.0,580.0,All properties,2025-09-30
+South Eastern Melbourne,Narre Warren-Hampton Park,Sep 2025,2012.0,560.0,All properties,2025-09-30
+Outer Western Melbourne,Newport-Spotswood,Sep 2025,857.0,620.0,All properties,2025-09-30
+Geelong,Newtown,Sep 2025,360.0,500.0,All properties,2025-09-30
+South Eastern Melbourne,Noble Park,Sep 2025,1126.0,520.0,All properties,2025-09-30
+Bendigo,North Bendigo,Sep 2025,845.0,480.0,All properties,2025-09-30
+Geelong,North Geelong,Sep 2025,713.0,480.0,All properties,2025-09-30
+Inner Melbourne,North Melbourne-West Melbourne,Sep 2025,2933.0,600.0,All properties,2025-09-30
+North Eastern Melbourne,Northcote,Sep 2025,940.0,640.0,All properties,2025-09-30
+Inner Eastern Melbourne,Nunawading-Mitcham,Sep 2025,783.0,580.0,All properties,2025-09-30
+North Western Melbourne,Oak Park-Glenroy-Fawkner,Sep 2025,1743.0,530.0,All properties,2025-09-30
+Other Regional Centres,Ocean Grove-Barwon Heads,Sep 2025,465.0,570.0,All properties,2025-09-30
+South Eastern Melbourne,Pakenham,Sep 2025,1812.0,540.0,All properties,2025-09-30
+North Western Melbourne,Pascoe Vale-Coburg North,Sep 2025,995.0,550.0,All properties,2025-09-30
+Inner Melbourne,Port Melbourne,Sep 2025,1077.0,795.0,All properties,2025-09-30
+Other Regional Centres,Portland,Sep 2025,297.0,420.0,All properties,2025-09-30
+Inner Melbourne,Prahran-Windsor,Sep 2025,1995.0,590.0,All properties,2025-09-30
+North Eastern Melbourne,Preston,Sep 2025,1371.0,560.0,All properties,2025-09-30
+North Eastern Melbourne,Reservoir,Sep 2025,1788.0,530.0,All properties,2025-09-30
+Inner Melbourne,Richmond-Burnley,Sep 2025,2549.0,675.0,All properties,2025-09-30
+Outer Eastern Melbourne,Ringwood,Sep 2025,1216.0,560.0,All properties,2025-09-30
+Outer Eastern Melbourne,Rowville,Sep 2025,410.0,650.0,All properties,2025-09-30
+Other Regional Centres,Sale-Maffra,Sep 2025,633.0,450.0,All properties,2025-09-30
+Mornington Peninsula,Seaford-Carrum Downs,Sep 2025,1477.0,560.0,All properties,2025-09-30
+Ballarat,Sebastopol-Delacombe,Sep 2025,1445.0,430.0,All properties,2025-09-30
+Other Regional Centres,Seymour,Sep 2025,175.0,410.0,All properties,2025-09-30
+Other Regional Centres,Shepparton,Sep 2025,1522.0,460.0,All properties,2025-09-30
+Inner Melbourne,South Melbourne,Sep 2025,1147.0,650.0,All properties,2025-09-30
+Inner Melbourne,South Yarra,Sep 2025,3079.0,620.0,All properties,2025-09-30
+Inner Melbourne,Southbank,Sep 2025,4349.0,680.0,All properties,2025-09-30
+South Eastern Melbourne,Springvale,Sep 2025,1466.0,570.0,All properties,2025-09-30
+Outer Western Melbourne,St Albans-Deer Park,Sep 2025,1558.0,470.0,All properties,2025-09-30
+Inner Melbourne,St Kilda,Sep 2025,2593.0,560.0,All properties,2025-09-30
+North Western Melbourne,Sunbury,Sep 2025,1041.0,520.0,All properties,2025-09-30
+Outer Western Melbourne,Sunshine,Sep 2025,1476.0,480.0,All properties,2025-09-30
+Other Regional Centres,Swan Hill,Sep 2025,250.0,430.0,All properties,2025-09-30
+Outer Western Melbourne,Sydenham,Sep 2025,4284.0,500.0,All properties,2025-09-30
+North Eastern Melbourne,Thomastown-Lalor,Sep 2025,999.0,500.0,All properties,2025-09-30
+North Eastern Melbourne,Thornbury,Sep 2025,838.0,525.0,All properties,2025-09-30
+Inner Melbourne,Toorak,Sep 2025,630.0,688.0,All properties,2025-09-30
+Other Regional Centres,Torquay,Sep 2025,474.0,685.0,All properties,2025-09-30
+Other Regional Centres,Traralgon,Sep 2025,813.0,450.0,All properties,2025-09-30
+Inner Eastern Melbourne,Vermont-Forest Hill-Burwood East,Sep 2025,907.0,650.0,All properties,2025-09-30
+Other Regional Centres,Wanagaratta,Sep 2025,559.0,420.0,All properties,2025-09-30
+Outer Eastern Melbourne,Wantirna-Scoresby,Sep 2025,1021.0,620.0,All properties,2025-09-30
+Other Regional Centres,Warragul,Sep 2025,524.0,550.0,All properties,2025-09-30
+Other Regional Centres,Warrnambool,Sep 2025,860.0,500.0,All properties,2025-09-30
+Ballarat,Wendouree-Alfredton,Sep 2025,1356.0,440.0,All properties,2025-09-30
+Outer Western Melbourne,Werribee-Hoppers Crossing,Sep 2025,11050.0,490.0,All properties,2025-09-30
+North Western Melbourne,West Brunswick,Sep 2025,1044.0,480.0,All properties,2025-09-30
+Outer Western Melbourne,West Footscray,Sep 2025,1183.0,550.0,All properties,2025-09-30
+North Eastern Melbourne,Whittlesea,Sep 2025,2669.0,540.0,All properties,2025-09-30
+Outer Western Melbourne,Williamstown,Sep 2025,457.0,670.0,All properties,2025-09-30
+Other Regional Centres,Wodonga,Sep 2025,1166.0,500.0,All properties,2025-09-30
+Outer Eastern Melbourne,Yarra Ranges,Sep 2025,663.0,580.0,All properties,2025-09-30
+Outer Western Melbourne,Yarraville-Seddon,Sep 2025,1023.0,620.0,All properties,2025-09-30
