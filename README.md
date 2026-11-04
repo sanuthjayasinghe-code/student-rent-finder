@@ -1,8 +1,8 @@
 # Student Rent Finder: Melbourne
 
-**Live app:** <paste your Streamlit link here>
+**Live app:** <https://student-rent-app.streamlit.app>
 
-![App screenshot](screenshot.png)
+![App screenshot]( )
 
 ## The problem
 Students choose a rental on price, then discover the commute. A cheap suburb with a 70-minute trip
